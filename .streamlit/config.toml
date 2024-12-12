@@ -1,0 +1,8 @@
+[server]
+# Specify the main file to run
+headless = true
+enableCORS = false
+
+[theme]
+# Optional: Customize your app's theme
+primaryColor = "#1E90FF"
